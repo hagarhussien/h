@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int n,m,mult;
+cout<<"please enter two number n and m \n";
+cin>>n>>m;
+mult=n+m;
+cout<<"the mult of two number n and m = "<<mult<<"\n";
+return 0;
+}
